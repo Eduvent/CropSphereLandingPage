@@ -1,0 +1,18 @@
+/* Gradiente de fondo general */
+.background-gradient {
+    background: linear-gradient(180deg, #a8e063 0%, #56ab2f 50%, #003973 100%);
+  }
+  
+  /* Gradiente de la navbar */
+.navbar-custom {
+    background: linear-gradient(180deg, #a8e063 0%, #56ab2f 100%);
+    /* Resto de tus estilos personalizados para la navbar */
+  }
+  
+  /* Gradiente del encabezado */
+.hero-section {
+    background: linear-gradient(180deg, #a8e063 0%, #56ab2f 100%);
+    color: white; /* Asegúrate de que el texto se vea bien sobre el fondo */
+    /* Resto de tus estilos personalizados para el encabezado */
+  }
+  
